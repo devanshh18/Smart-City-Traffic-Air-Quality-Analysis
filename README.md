@@ -1,6 +1,7 @@
 ## Project Documentation
 
-- ![Project Objectives](docs/project_objective.md)
-- [Analysis Findings](findings.md)
-- [Project Summary](project_summary.md)
-![Overview Dashboard](screenshots/overview_dashboard.png)
+Detailed documentation for this project is available in the following files:
+
+- 📄 [Project Objective](docs/project_objective.md)
+- 📊 [Analysis Findings](docs/findings.md)
+- 📘 [Project Summary](docs/project_summary.md)
