@@ -51,7 +51,7 @@ Two datasets were used for the analysis.
 
 Power BI dashboard showing traffic congestion patterns and pollution insights.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](outputs/dashboard.png)
 
 ---
 
